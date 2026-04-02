@@ -6,7 +6,7 @@ Ek modern, responsive, aur fast Currency Converter web application jo real-time 
 
 ## 🚀 Live Demo
 Aap is project ko yahan dekh sakte hain: 
-**[Apna GitHub Pages Link Yahan Dalein]**
+https://yaseenibnkhan.github.io/Currency-Converter
 
 ---
 
